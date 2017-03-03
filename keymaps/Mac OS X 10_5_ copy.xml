@@ -1,0 +1,125 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl meta a" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="shift ctrl meta c" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+  </action>
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorCodeBlockStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+  </action>
+  <action id="EditorHungryBackSpace">
+    <keyboard-shortcut first-keystroke="shift back_space" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="shift meta alt right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorPasteSimple" />
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl meta f" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl meta p" />
+  </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="HtmlTableCellNavigateRight" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta alt left" />
+  </action>
+  <action id="MoveElementRight" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="NextOccurence" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="PopupHector" />
+  <action id="PreviousEditorTab" />
+  <action id="PreviousOccurence" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta alt v" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="UsageView.Include" />
+</keymap>

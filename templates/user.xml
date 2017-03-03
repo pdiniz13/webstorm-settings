@@ -1,0 +1,15 @@
+<templateSet group="user">
+  <template name="log" value="HT.utils.log.info($log$)" description="HT.utils.log" toReformat="true" toShortenFQNames="true">
+    <variable name="log" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="CoffeeScript" value="true" />
+    </context>
+  </template>
+  <template name="fired" value="HT.utils.log.info('fired')" description="HT.fired" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="CoffeeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

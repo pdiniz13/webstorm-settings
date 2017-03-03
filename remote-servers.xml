@@ -1,0 +1,10 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/htdocker" />
+        <option name="machine" value="htdocker" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

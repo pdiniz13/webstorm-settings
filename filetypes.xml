@@ -12,9 +12,10 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".keystore" type="PLAIN_TEXT" />
-      <mapping pattern="cordova-plugins" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="cordova-plugins" type="PLAIN_TEXT" />
       <mapping pattern="Vagrant" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="nkejzj3ytt" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />

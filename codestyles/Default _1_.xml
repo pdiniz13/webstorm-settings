@@ -65,7 +65,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
@@ -85,8 +85,6 @@
     <option name="SPACE_BEFORE_WHILE_KEYWORD" value="false" />
     <option name="SPACE_BEFORE_CATCH_KEYWORD" value="false" />
     <option name="SPACE_BEFORE_FINALLY_KEYWORD" value="false" />
-    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
-    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
   </codeStyleSettings>

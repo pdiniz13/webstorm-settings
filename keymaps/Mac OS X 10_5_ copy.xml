@@ -76,6 +76,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
   <action id="HtmlTableCellNavigateRight" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift meta alt e" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl meta alt left" />
   </action>

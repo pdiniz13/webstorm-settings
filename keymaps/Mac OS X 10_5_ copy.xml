@@ -6,6 +6,12 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="shift ctrl meta c" />
   </action>
@@ -28,8 +34,14 @@
     <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="EditorHungryBackSpace">
     <keyboard-shortcut first-keystroke="shift back_space" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -62,6 +74,12 @@
   </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
@@ -76,6 +94,12 @@
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
   <action id="HtmlTableCellNavigateRight" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift meta alt e" />
   </action>
